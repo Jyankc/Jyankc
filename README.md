@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Yancovich</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-- 🔭 My last big project was [SalchiStore](https://salchistore.vercel.app/)
-
-- 🌱 I’m currently learning more about **TypeScript and Databases**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Jyankc](https://github.com/Jyankc)
+- 🔭 My last big project is agendito.com
 
 - 📫 How to reach me **juanyancovich@gmail.com**
 
