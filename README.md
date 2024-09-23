@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Yancovich</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">I'm a SWE from Argentina</h3>
 
-- 🔭 My last big project is agendito.com
+- 🔭 My last big project is agendito.com . An Appointment application with Nextjs ,mongoDB and Typescript.
+- I also work at 1910Genetics.com , an awesome company!
 
 - 📫 How to reach me **juanyancovich@gmail.com**
 
